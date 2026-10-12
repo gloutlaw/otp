@@ -1,0 +1,16 @@
+.env
+*.session
+*.session-journal
+bots_functionality.txt
+identity-probe.txt
+replica-probe.txt
+model-compare.txt
+login-qr.svg
+probe-cat.png
+.venv/
+__pycache__/
+blind-review.txt
+blind-key.json
+blind-scores.json
+blind-scores-proxy.json
+internet-probe.txt
